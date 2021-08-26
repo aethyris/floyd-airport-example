@@ -1,0 +1,11 @@
+airport_id,code,description,city
+1,ATL,Hartsfield - Jackson Atlanta International Airport,Atlanta
+2,ANC,Anchorage Ted Stevens,Anchorage
+3,AUS,Austin Bergstrom International Airport,Austin
+4,BNA,Nashville International Airport,Nashville
+5,BOS,Boston Logan,Boston
+6,BWI,Baltimore/Washington International Airport,Baltimore
+7,DCA,Ronald Reagan Washington National Airport,Washington D.C.
+8,DFW,Dallas/Fort Worth International Airport,Dallas
+9,FLL,Fort Lauderdale/Hollywood International Airport,Fort Lauderdale
+10,IAD,Washington Dulles International Airport,Washington D.C.
